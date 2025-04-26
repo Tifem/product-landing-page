@@ -90,3 +90,18 @@ main{
     border:none;
     border-radius: 5px;
 }
+
+.pricing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 45px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    /* width: 70%; */
+    border-collapse: collapse;
+    padding: 12px 20px;
+}
